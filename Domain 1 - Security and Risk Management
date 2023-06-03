@@ -51,3 +51,68 @@ Accountability: An organisations security policy can be properly enforced only i
 maintained. Accountability is established by linking a human to the activities of an online identity
 through the security services and mechanism of auditing, authorization, authentication and
 identification.
+
+==================================================================================================
+
+Protection mechanism
+
+Protection mechanism are common characteristics of security controls
+
+Layering: Layering is also known as defence in depth and is the simple use of multiple controls in a
+series. Using Layering in series rather than in parallel is important. Think of physical entrances to
+buildings. A parallel configuration is used forshopping malls asthere are many doorsin many locations
+around the entire perimeter of the mall. A series configuration would most likely be used in a bank or
+airport. A single entrance is provided, and that entrance is several gateways or checkpoints that must
+be passed in sequential order to gain entry into active area of thebuilding.
+
+Abstraction: Abstraction is used for efficiency. The concept of abstraction is used when classifying
+objects or assigning roles to subjects. Abstraction is used to define what types of data an object can
+contain, what types of functions can be performed on or by that object and what capabilities that
+object has. Abstraction simplifies security by enabling you to assign security controls to a group of
+objects collected by type or function.
+
+Data Hiding: Data hiding is preventing data from being discovered or accessed by a subject by
+positioning the data in a logical storage compartment that is not accessible or seen by the subject.
+Preventing an application from accessing hardware directly is also form of data hiding. Data hiding is
+often key elements in security controls as well as in programming. The term security through
+obscurity may seem relevant here however the concept is different. Data hiding is the act of
+intentionally positioning data so that it is not viewable or accessible to an unauthorized subject.,
+while Security through obscurity is the idea of not informing a subject about an object being present
+and thus hoping that the subject will not discover the object. Example Security through
+obscurity is when a programmer is aware of a flaw in their software code, but they release the
+product anyway hoping that no one discovers the issue and exploitit.
+
+===========================================================================================
+
+Security Boundaries
+A security boundary is the line of intersection between any two areas, subnets or environment. A
+security boundary exists between a high security area and a low security one such as between LAN
+and internet.
+
+============================================================================================
+Security governance is the collection of practices related to supporting, defining, and directing the
+security efforts of an organization.
+
+Security management planning ensures proper creation, implementation, and enforcement of a
+security policy. We can distinguish 3 types of security planning:
+
+a) Strategic plan- long term, defines a security purpose of the organization
+b) Tactical plan: midterm, provides more details for the goals set in strategic plan e.g acquistion plna,,hiring plan,budget plan,support plan, maintenance plan
+c) Operation plan: short term e.g training plan, system development plan
+======================================================================================================
+
+Organization roles and responsibilities:
+
+1. Senior management: Responsible fro success or failure of the security of the organization as well as for exercising due care and due diligence
+
+2. Security profesional: has function responsibility for security what includes writing and implementing security policies, but they are not decision
+makes - they are implementers
+
+3. Data owner: responsible for data classification
+
+4. Data custodian: responsible for implementing security solution approved by policies and senior managament
+
+5. User
+
+6. Auditor: responsible for reviewing and veryfing that security policies are properly implemented
+
