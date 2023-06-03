@@ -1,1 +1,53 @@
 
+The Primary goals and objectives of Security are contained with the CIA triad
+
+Confidentiality
+This is the first principle of CIA triad. Confidentiality means offering a high level of assurance that the
+data, objects or resources are restricted from unauthorized subjects.
+Numerous Countermeasures like data encryption, network traffic padding, strict access control,
+rigorous authentication procedures, data classification and extensive personal training can help
+ensure confidentiality against any possible threats.
+One word for Confidentiality is SECRECY (Secret)
+Numerous attacks that violated confidentiality includes:
+Capturing network traffic, stealing password files, port scanning, social engineering, shoulder surfing,
+eavesdropping and sniffing.
+
+Integrity
+Integrity is the concept of protecting the reliability and correctness of data. It ensures that the data
+remains correct, unaltered and preserved.
+Integrity is dependent on confidentiality.
+Numerous attacks that violates Integrity includes:
+Viruses, logic bombs, unauthorized access, errors in coding and applications, malicious modification,
+intentional replacements and system back doors.
+
+Availability:
+ensures that information is available when needed
+===========================================================================
+
+The five elements of AAA
+
+Identification: Identification isthe process by which a subject professes an identity and accountability
+is initiated. A subject must provide an identity to a system to start the process of authentication,
+Authorization and accountability (AAA). Identification could be username, smart card or scan device
+etc.
+
+Authentication: The process of verifying or testing that the claimed identity is a valid authentication.
+The most common form of authentication is using a password (This includes PIN or PASSPHRASE).
+Identification and authentication is often used together as a single two-stepprocess.
+
+Authorization: Once a subject is authenticated, access must be authorized. The process of
+authorization ensures that the requested activity or access to an object is possible given the rights and
+privileges assigned to the authenticated identity. Example: User may be able to read a file but not
+delete it, print a document but not alter it.
+
+Auditing: Auditing or monitoring is the programmatic means by which a subject’s actions are tracked
+and recorded for the purpose of holding the subject accountable for the actions while authenticated
+on a system. Monitoring is part of what is needed for audits and audit logs are part of monitoring
+system. Monitoring is a type of watching or oversight while auditing is a recording of the information
+into a record or file. It is possible to monitor without auditing, but you can’t audit without some form
+of monitoring.
+
+Accountability: An organisations security policy can be properly enforced only if accountability is
+maintained. Accountability is established by linking a human to the activities of an online identity
+through the security services and mechanism of auditing, authorization, authentication and
+identification.
